@@ -16,7 +16,7 @@ This project provides an API to fetch real-time stock market prices and analyze 
 
 ### Steps:
 1. Clone this repository:
-git clone https://github.com/your-username/stock-market-agent.git cd stock-market-agent
+git clone https://github.com/CoDe-WiZaDd-18-DOTCOM/stock-market-agent.git cd stock-market-agent
 
 2. Install dependencies:
 pip install -r requirements.txt
