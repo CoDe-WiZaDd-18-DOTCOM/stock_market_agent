@@ -25,7 +25,7 @@ pip install -r requirements.txt
 uvicorn main:app --reload
 
 Test the API using cURL or Postman:
-curl -X GET "http://127.0.0.1:8000/stock/AAPL"
+curl -X GET "https://stock-market-agent.onrender.com/stock/{stock_name}" 
 
 ## 📜 API Endpoints
 | Method | Endpoint             | Description                      |
